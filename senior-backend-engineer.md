@@ -5,7 +5,7 @@ We’re looking for multiple Java backend development engineers to join our engi
 ## Engineering at Mesh:
 Our product team combines design, frontend and backend. While specialization is important, we prefer cross functional teams that can take on any area of our product, at will. Our most effective people work across design and implementation, making the best technology decisions to build incredible products.
 
-## As a React Engineer, you will:
+## As a Java Development Engineer, you will:
 *	Design, build and manage `scalable applications`
 *	Contribute to our architecture as we grow while recognizing the importance of agility, stability and availability
 *   Build `Java web applications` using `Spring framework` technologies (`Boot`, `Web`, `MVC`, `Security`).
